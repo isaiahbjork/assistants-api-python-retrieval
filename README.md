@@ -1,4 +1,4 @@
-# Readme for OpenAI Retrieval Assistant Script
+# OpenAI Assistant API Retrieval Tutorial 
 
 [YouTube Tutorial](https://youtu.be/isB1qKi1oRA): Watch the detailed walkthrough of this code and its functionalities.
 
